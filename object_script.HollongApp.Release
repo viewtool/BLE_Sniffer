@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\LocalTab.o
+./release\GenericTab.o
+./release\setcom.o
+./release\Hollong.o
+./release\vtcom.o
+./release\moc_hollong.o
+./release\moc_LocalTab.o
+./release\moc_GenericTab.o
+./release\moc_setcom.o
+);

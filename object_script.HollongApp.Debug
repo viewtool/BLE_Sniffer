@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\LocalTab.o
+./debug\GenericTab.o
+./debug\setcom.o
+./debug\Hollong.o
+./debug\vtcom.o
+./debug\moc_hollong.o
+./debug\moc_LocalTab.o
+./debug\moc_GenericTab.o
+./debug\moc_setcom.o
+);
